@@ -22,7 +22,11 @@ const Navbar = () => (
           <a className="nav-link">Github</a>
           </Link>
       </li>
-
+      <li className="nav-item">
+        <Link href="https://api.whatsapp.com/send?phone=+595982948724&text= Hola!%20Estoy%20interesado%20en%20contratar%20sus%20servicios">
+          <a className="nav-link" target="_blank">WhatsApp</a>
+        </Link>
+      </li>
     </ul>
   </div>
 </div>

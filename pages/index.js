@@ -16,7 +16,7 @@ const Index = () => (
                   </div>
                   <div className="col-md-8">
                     <h1>Rodrigo Bilbao</h1> 
-                    <h3>Frelancer autodidacta</h3>
+                    <h3>Freelancer autodidacta</h3>
                     <p>Especializado en el mundo de la tecnologia web especialmente JavaScript y Python con sus respectivos frameworks ademas de HTML 5 y CSS 3. Incursionando en el desarrollo movil.</p>
                        <a href="/contratame">Contactame</a>  
                   </div>

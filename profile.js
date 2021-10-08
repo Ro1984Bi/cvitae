@@ -138,7 +138,7 @@ export const posts = [
 
             title:'VUE',
             content: "Vuejs, es un Framework progresivo de Javascript, para crear aplicaciones single page applications con todo lo que ya sabes del desarrollo web frontend, html, css, javascript.",
-            imageURL: "http://www.componentxtra.com/wp-content/uploads/2020/03/vue.js-progressive-javascript-framework.jpg"
+            imageURL: "https://www.dtidigital.com.br/wp-content/uploads/elementor/thumbs/Vue-js-pai2adsbepxeslktlcv635vre1vl0kuq9m67bep27w.png"
     
         },
 ]

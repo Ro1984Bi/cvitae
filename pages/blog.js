@@ -11,7 +11,7 @@ const PostCard = ({post}) => (
             <div className="card-body">
                 <h1>{ post.title }</h1>
                 <p>{ post.content }</p>
-               <Link href="https://portafolio-app.netlify.app/">
+               <Link href="https://ropelis.netlify.app/">
                 <button className="btn btn-light">See More</button>
                </Link>
                <Link href="https://my-taskapp.netlify.app/">

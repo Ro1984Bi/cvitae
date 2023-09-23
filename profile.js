@@ -128,9 +128,9 @@ export const posts = [
     
         {
 
-            title:'ANGULAR',
-            content: "Angular es un framework de javascript/typescript que utiliza herramientas modernas y aplica conceptos novedosos de programación para desarrollar aplicaciones web modernas.",
-            imageURL: "https://www.ryadel.com/wp-content/uploads/2017/10/angular-logo.jpg"
+            title:'REACT',
+            content: "React es una librería Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre. En el proyecto hay más de mil desarrolladores libres.",
+            imageURL: "https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png"
 
         },
 
